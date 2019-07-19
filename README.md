@@ -9,7 +9,7 @@ Thermal Modeling of Implantable Probe for Optogenetics Using COMSOL Multiphysics
 
 ## How to Use?
 
-There are four folders corresponding to the two types of LEDs on top of two types of substrates, and the folders are named as **nonpsscu**, **psscu**,**nonpsspi** and **psspi**. (*Note: Up to now, only **nonpsscu** is complete, others are pending update*).
+There are four folders corresponding to the two types of LEDs on top of two types of substrates, and the folders are named as **nonpsscu**, **psscu**,**nonpsspi** and **psspi**. (*Note: Up to now, only **nonpsscu** is complete, others are pending update.*)
 
 To use the simulation file, download the **.mph** file in the corresponding folder and run it with COMSOL Multiphysics, version 5.4 and above. 
 
@@ -25,7 +25,7 @@ If you care about the stable state, select `Stationary Study` from the left navi
 
 If you care about the transient state, select `Transient Study` from the left navigation bar and click study. Note that the convergence of transient solver may be difficult, see the Wiki of this repository for detail. A typical result image looks like this.
 
-![transient](nonpsscu/results/transient.gif)
+![transient](assets/transient-min.gif)
 
 ## How to Modify (if necessary)?
 
