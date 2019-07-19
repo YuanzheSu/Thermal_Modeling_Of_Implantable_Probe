@@ -17,13 +17,15 @@ To use the simulation file, download the **.mph** file in the corresponding fold
 
 If you care about the stable state, select `Stationary Study` from the left navigation bar and click study. The results will pop up once the simulation is finished. A typical result image looks like this.
 
-![stationary](assets/stationary.png)
+![stationary](nonpsscu/results/stationary.png)
+
+
 
 ### Transient Study
 
 If you care about the transient state, select `Transient Study` from the left navigation bar and click study. Note that the convergence of transient solver may be difficult, see the Wiki of this repository for detail. A typical result image looks like this.
 
-![transient](assets/transient.gif)
+![transient](nonpsscu/results/transient.gif)
 
 ## How to Modify (if necessary)?
 
